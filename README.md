@@ -49,32 +49,6 @@
 - **Código limpio y legible**
 - **Aprender → Implementar → Optimizar**
 
----
-
-## 📊 GitHub Stats (Animados)
-
-<div align="center">
-
-<!-- STATS PRINCIPALES -->
-<img height="165"
-     src="https://github-readme-stats.vercel.app/api?username=Isaac-Villegas0506&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&include_all_commits=true"/>
-
-<!-- RACHA -->
-<img height="165"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac-Villegas0506&theme=gotham&hide_border=true&background=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<!-- LENGUAJES DONUT -->
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Villegas0506&layout=donut&theme=gotham&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
 ## 🎯 En mi Radar
 
 > 🔭 **Arquitectura:** Microservicios  
